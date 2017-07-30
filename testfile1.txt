@@ -1,3 +1,4 @@
 
 mytestfile1
 include 2nd line
+included 3rd line
