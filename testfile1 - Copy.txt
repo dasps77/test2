@@ -1,1 +1,1 @@
-mytestfile1
+added new contents to copy file
